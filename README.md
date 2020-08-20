@@ -1,0 +1,2 @@
+# Coursera_AlgorithmsforBatteryManagementSystems
+Coursera material for understanding BMS algorithm
